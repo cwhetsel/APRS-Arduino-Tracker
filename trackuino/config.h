@@ -56,7 +56,7 @@
 // APRS comment: this goes in the comment portion of the APRS message. You
 // might want to keep this short. The longer the packet, the more vulnerable
 // it is to noise. 
-#define APRS_COMMENT    "Call 3146861132 if found"
+#define APRS_COMMENT    "Call 5738379811 if found"
 
 
 // --------------------------------------------------------------------------
